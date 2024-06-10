@@ -1,3 +1,4 @@
+package java_0604;
 /* 문제 1: 주어진 배열에서 가장 큰 값을 찾아 출력하는 프로그램을 작성하세요. */
 
 public class whileProblem1 {

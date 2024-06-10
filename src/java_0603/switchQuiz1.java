@@ -1,3 +1,4 @@
+package java_0603;
 /* 변수 grade에 'A', 'B', 'C', 'D', 'F' 중 하나의 문자가 저장되어 있습니다.
 각 등급에 따라 "Excellent", "Good", "Average", "Below Average", "Fail"을 출력하는 코드를 작성하세요. */
 

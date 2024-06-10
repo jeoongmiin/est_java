@@ -1,3 +1,4 @@
+package java_0604;
 /* 목표: 1부터 10까지 숫자를 출력하세요. 이때 4와 7은 건너뛰고 출력합니다. */
 
 public class forProblem7 {

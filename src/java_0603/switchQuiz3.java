@@ -1,3 +1,4 @@
+package java_0603;
 /* 변수 color에 "red", "green", "blue" 중 하나의 문자열이 저장되어 있습니다.
 각 색상에 따라 "Apple", "Grass", "Sky"를 출력하는 코드를 작성하세요. */
 
